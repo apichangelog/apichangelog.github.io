@@ -4,10 +4,12 @@ title: Home
 ---
 
 {% for post in site.posts %}
+{% if post.status != 'draft' %}
 <div id="post" style="width:65%;line-height:1.4em">
 <h1>{{ post.title }}</h1>
 {{ post.excerpt }}
 <p><a href="{{ post.url }}">Read more</a></p>
 <small>Published on {{ post.date | date_to_string }}</small>
 </div>
+{% endif %}
 {% endfor %}
