@@ -17,9 +17,9 @@ Currently GoCardless offers two distinct APIs:
 * [GoCardless V1](https://www.apichangelog.com/api/gocardless), which is all about **simplicity**, is focused on the SMB market and has had [some change taking place](https://www.apichangelog.com/changes/4441b2f0-8a78-4914-95e2-3bc45cc90b08), however is still 100% backward compatible. 
 * [GoCardless Pro](https://www.apichangelog.com/api/gocardlesspro), which has a richer **feature set**, is targeted at the larger clients who require additional functionality from the service.
 
-Currently to have these two APIs operating they need to maintain a compatibility layer. Because managing both APIs is not always easy they’re planning on converging them over the coming six months. The first one operates of [JSON Schema](http://json-schema.org/ "JSON Schema") and has larger abstractions than the Pro service. 
+Currently to have these two APIs operating they need to maintain a compatibility layer. Because managing both APIs is not always easy they’re planning on converging them over the coming six months. The first one operates with [JSON Schema](http://json-schema.org/ "JSON Schema") and has larger abstractions than the Pro service. 
 
-Major key learnings are:
+Their major key learnings are:
 
 * There’s a need to differentiate between the **scale of change** on different customers.
 * Changing from a flat to a nested representation **does not change function but does change usage**.
@@ -27,4 +27,4 @@ Major key learnings are:
 * **Set fixed dates for incremental changes**. Outline the dates early in header information to ensure.
 * **Have a clear communication channel with your developers**, ideally knowing each developer down to the contact details, version of API used and method last called.
 
-GoCardless is also a heavy API consumer, as it has to interact with various external services. To better manage their consumers they internally use JSON schema to provide very strict contracts between services. They’ve also created a mock server so that their API consumers can be better tested against the JSON schema.
+GoCardless is also a heavy API consumer, as it has to interact with various external services. To better manage their consumers they internally use JSON Schema to provide very strict contracts between services. They’ve also created a mock server so that their API consumers can be better tested.
