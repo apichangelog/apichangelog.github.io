@@ -1,8 +1,7 @@
 ---
 layout: post
+title: More than changes
 ---
-
-# More than changes
 
 [API Changelog](https://www.apichangelog.com/ "API Changelog") has been running for over a year now and during this time we’ve been monitoring the documentation of more than [50 APIs](https://www.apichangelog.com/browse "API Changelog APIs"). On a daily basis we manually curate the most relevant changes so that developers like you get the most interesting findings on your inbox every morning and don’t get caught out when change happens.
 
