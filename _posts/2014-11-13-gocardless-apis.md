@@ -8,11 +8,11 @@ status: draft
 
 ![](/img/APIChangelogGoCardlessInterview.png)
 
-The original [GoCardless API](https://www.apichangelog.com/api/gocardless "GoCardless API Changelog"), was built 3 years ago and was the core of the GoCardless offering. The API was an abstraction of direct debit services which have classically only been available to large enterprises. Since launching their service the GoCardless team have learnt an enormous amount from running and launching one of the highest growth API based companies in the FinTech space. We talked with [Grey Baker](https://www.linkedin.com/in/greysteil "Grey Baker"), their VP Engineering, and [Philip Harrison](https://www.linkedin.com/in/harrisonphilip "Philip Harrison"), one of their engineers, to understand how they operate their two APIs and what challenges they went through.
+The original [GoCardless API](https://www.apichangelog.com/api/gocardless "GoCardless API Changelog") was built 3 years ago and was the core of the GoCardless offering. The API was an abstraction of direct debit services which have classically only been available to large enterprises. Since launching their service the GoCardless team have learnt an enormous amount from running and launching one of the highest growth API based companies in the FinTech space. We talked with [Grey Baker](https://www.linkedin.com/in/greysteil "Grey Baker"), their VP Engineering, and [Philip Harrison](https://www.linkedin.com/in/harrisonphilip "Philip Harrison"), one of their engineers, to understand how they operate their two APIs and what challenges they went through.
 
 After three years GoCardless have learnt a great deal about managing APIs. According to Grey Baker, their overarching learning outcome from this experience of building and scaling an API business is that “**the actual API change process is by far the hardest part of the process**”. Building the API requires some insight, however is not earth shattering from a technology point of view. The real skill is evolving your learning as a business into your API. 
 
-Currently GoCardless offers two distinct APIs:
+GoCardless offers two distinct APIs:
 
 * [GoCardless V1](https://www.apichangelog.com/api/gocardless), which is all about **simplicity**, is focused on the SMB market and has had [some change taking place](https://www.apichangelog.com/changes/4441b2f0-8a78-4914-95e2-3bc45cc90b08), however is still 100% backward compatible. 
 * [GoCardless Pro](https://www.apichangelog.com/api/gocardlesspro), which has a richer **feature set**, is targeted at the larger clients who require additional functionality from the service.
