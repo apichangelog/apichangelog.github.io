@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How GoCardless Manages Two APIs
-status: draft
 ---
 
 [GoCardless](https://gocardless.com/ "GoCardless") is a recurring payments company with a twist: instead of using credit cards they operate with direct debits. They’re based in the UK and currently help over 30,000 businesses manage their recurring direct debits. They went through [YCombinator](https://www.ycombinator.com/ "YCombinator") and now have investment from companies like [Benchmark Capital](http://www.benchmark.com/ "Benchmark Capital"). Their business started in 2011 when direct debits were still seen as something complicated and only accessible to large companies. GoCardless simplifies the direct debit process so that anyone can easily use it by consuming one of their two APIs.
