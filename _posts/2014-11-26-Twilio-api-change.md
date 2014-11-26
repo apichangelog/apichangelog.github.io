@@ -23,7 +23,8 @@ Aside: Like we discussed with [GoCardless](http://blog.apichangelog.com/2014/11/
 
 MMS at Twilio was a neat design problem. The MMS protocol allows different media in the same message. Twilio wanted to show all media options and the spec allows for overloading of http spec. Each item would then be presented as a media URL. The problem was this broke in the Ruby on Rails and PHP frameworks. So their conclusion was they had to be more pragmatic on the solution they were going to provide. Thus they had to go for a more simple solution without overloading to ensure they could ensure this works in a clear and functional way for all developers. 
 
-**To guarantee a service**
+##To guarantee a service
+
 Being able to guarantee service is a key part of the Twilio API.
 
 Rob outlined when a company like Twilio exposes APIs / SDKs to the public in production, they are making a solemn promise to the developers that they are there to serve that API for the long term and change will occur in an intelligent and methodical fashion. Twilio have been experts in this process. According to Rob there are still some developers who are still using founding end points of their API. Probably a claim few companies can make.
@@ -38,7 +39,8 @@ Keeping this type of consistency is the ongoing theme from our chat. From best p
 
 Rob went to outline however In general in the API industry there is a tendency of covering mistakes from the past, by quick change and inconsistency, however working with those mistakes to not let down your API consumers must be thought of at all stages including when change is to occur. 
 
-**Scope = customer impact not techincal difficulty**
+##Scope = customer impact not techincal difficulty
+
 When scoping change, the key metric Twilio look at is the number of customers that are impacted not the scale of the technical change initially. This is why they have invested so much effort the v3 release and well as very granular tracking infrastructure across their API.
 
 As discussed before, Twilio aims to have world class customer service organization for developers. Not many companies can say that and actually achieve it, their approach to managing their API does reflect that. 
