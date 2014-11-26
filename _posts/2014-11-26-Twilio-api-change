@@ -5,7 +5,7 @@ title: How Twilio APIs change while having developers on the founding end-points
 
 [Twilio](https://twilio.com/ "Twilio") is one of the leaders of the platform movement, being the a cloud communications company, founded in 2007 looking to disrupt the telecoms industry. They have been one of the most successful API first companies and are revered in the API world as trails blazers of how they put engineers first and at the centre of their business. By being the best to enable engineers to build product on top of their platform they have become the go to company in the cloud communications space globally.
 
-![](/img/APIChangelogGoCardlessInterview.png)
+![](/img/APIChangelogTwilioInterview.png)
 
 The original [GoCardless API](https://www.apichangelog.com/api/gocardless "GoCardless API Changelog") was built three years ago and was the core of the GoCardless offering. The API was an abstraction of direct debit services which have classically only been available to large enterprises. Since launching their service the GoCardless team have learnt an enormous amount from running and launching one of the highest growth API based companies in the FinTech space. We talked with [Grey Baker](https://www.linkedin.com/in/greysteil "Grey Baker"), their VP Engineering, and [Philip Harrison](https://www.linkedin.com/in/harrisonphilip "Philip Harrison"), one of their engineers, to understand how they operate their two APIs and what challenges they went through.
 
