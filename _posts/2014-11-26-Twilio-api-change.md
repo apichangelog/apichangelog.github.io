@@ -8,7 +8,7 @@ status: live
 
 ![](/img/TwilioAPIChangelog.png)
 
-We have are lucky enough to chat with Rob Spectre who has been involved with much of the API change at Twilio to share some of their experience and insight on how to better manage change of API change as your needs and requirements evolve.
+We have are lucky enough to chat with [Rob Spectre](https://twitter.com/dn0t "Rob Spectre on Twitter") who has been involved with much of the API change at Twilio to share some of their experience and insight on how to better manage change of API change as your needs and requirements evolve.
 
 So we asked Rob what are some of the bigger plans for late 2014 and early 2015 at Twilio?
 
