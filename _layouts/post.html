@@ -4,6 +4,7 @@ layout: default
 
 <div id="post" style="width:65%;margin-top:-20px;line-height:1.4em">
 <h1>{{ page.title }}</h1>
+<div><a href="https://twitter.com/share" class="twitter-share-button" data-text="&quot;{{ page.title | replace: 'API', '#API' }}&quot;" data-via="APIChangelog">Tweet</a>
 {{ content }}
 <small>Published on {{ page.date | date_to_string }}</small>
 <div><a href="https://twitter.com/share" class="twitter-share-button" data-text="&quot;{{ page.title | replace: 'API', '#API' }}&quot;" data-via="APIChangelog">Tweet</a>
