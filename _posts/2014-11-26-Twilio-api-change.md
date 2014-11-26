@@ -41,7 +41,7 @@ When scoping change, the key metric Twilio look at is the number of customers th
 
 As discussed before, Twilio aims to have world class customer service organization for developers. Not many companies can say that and actually achieve it, their approach to managing their API does reflect that. 
 
-If you want to chat to Rob and his team directly the quickest path is help@twilio.com, twitter.com/Twilio and don’t forget to follow them on [API Changelog](https://www.apichangelog.com/api/twilio "Twilio On API Changelog"). 
+If you want to chat to Rob and his team directly the quickest path is help@twilio.com, [twitter.com/Twilio](http://www.twitter.com/twilio "Twilio on Twitter") and don’t forget to follow them on [API Changelog](https://www.apichangelog.com/api/twilio "Twilio On API Changelog"). 
 
 
 
