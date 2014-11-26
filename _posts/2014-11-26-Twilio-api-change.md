@@ -12,14 +12,14 @@ We have are lucky enough to chat with Rob Spectre who has been involved with muc
 
 So we asked Rob what are some of the bigger plans for late 2014 and early 2015 at Twilio?
 
-“We are preparing for a API upgrade and a big price drop. These prices drops will be across international and domestic pricing. This has been possible due to the economies of scale achieved recently by Twilio. As our developer network has grown significantly the unit price economics improved, so we are excited to pass this onto our custommers.“
+> “We are preparing for a API upgrade and a big price drop. These prices drops will be across international and domestic pricing. This has been possible due to the economies of scale achieved recently by Twilio. As our developer network has grown significantly the unit price economics improved, so we are excited to pass this onto our custommers.“
 
 We then began to dive deeper into how change has occurred at Twilio. The example Rob discussed was enabling MMS for USA long codes. There was a need to add a new parameter to the existing end-point.
 
 So the process began with the product manager outlining the initial requirements and this document is shared across the relevant team of engineers. They begin to think through implications on different engineering build stories. When closer to launch they start implementing this in many languages consuming the APIs to ensure all frameworks are accounted for. This is then spread through the Twilio API evangelist community to ensure they are also validating this will be usable and useful for the community. 
 Then if the evangelist group is cleared they will move onto a few major customers who are currently using the most similar endpoints. They validate with the customer their approach and enable testing initial. Twillio can dive further down on this to find those who are the best fit for new features by reviewing API logs, usage of endpoints and the use cases they are used for by API COnsumer. 
 
-Aside: Like we discussed with <link to Goardless story> GoCardless, Twilio also has logs of all usage down to specific endpoints by individual consumers, so they can have in depth conversation with consumers when change is looking to be rolled out. 
+Aside: Like we discussed with [GoCardless](http://blog.apichangelog.com/2014/11/13/gocardless-apis.html  "GoCardless on API Changelog"), Twilio also has logs of all usage down to specific endpoints by individual consumers, so they can have in depth conversation with consumers when change is looking to be rolled out. 
 
 MMS at Twilio was a neat design problem. The MMS protocol allows different media in the same message. Twilio wanted to show all media options and the spec allows for overloading of http spec. Each item would then be presented as a media URL. The problem was this broke in the Ruby on Rails and PHP frameworks. So their conclusion was they had to be more pragmatic on the solution they were going to provide. Thus they had to go for a more simple solution without overloading to ensure they could ensure this works in a clear and functional way for all developers. 
 
@@ -32,7 +32,8 @@ So long term service is ingrained in the Twilio API strategy.
 So back to adding MMS functionality to the Twilio API. So in this a case they decided to add a new end-point to their API which would be across message types i.e. SMS and MMS. As this would now have an enganced functionality across both, they decided to deprecate the existing SMS end-point. The SMS deprecation path was defined, which was to be one through to two years, depending on response from customers.
 
 Keeping this type of consistency is the ongoing theme from our chat. From best practice point of view (other than Twilio), Rob saw Stripe as a leader in the field. 
-“ They are exemplary at maintaining consistency across interfaces. “
+
+> “They are exemplary at maintaining consistency across interfaces.“
 
 Rob went to outline however In general in the API industry there is a tendency of covering mistakes from the past, by quick change and inconsistency, however working with those mistakes to not let down your API consumers must be thought of at all stages including when change is to occur. 
 
@@ -44,29 +45,3 @@ If you want to chat to Rob and his team directly the quickest path is help@twili
 
 
 
-
-
-
-
-
-___________________________________
-The original [GoCardless API](https://www.apichangelog.com/api/gocardless "GoCardless API Changelog") was built three years ago and was the core of the GoCardless offering. The API was an abstraction of direct debit services which have classically only been available to large enterprises. Since launching their service the GoCardless team have learnt an enormous amount from running and launching one of the highest growth API based companies in the FinTech space. We talked with [Grey Baker](https://www.linkedin.com/in/greysteil "Grey Baker"), their VP Engineering, and [Philip Harrison](https://www.linkedin.com/in/harrisonphilip "Philip Harrison"), one of their engineers, to understand how they operate their two APIs and what challenges they went through.
-
-After three years GoCardless have learnt a great deal about managing APIs. According to Grey Baker, their overarching learning outcome from this experience of building and scaling an API business is that “**the actual API change process is by far the hardest part of the process**”. Building the API requires some insight, however is not earth shattering from a technology point of view. The real skill is evolving your learning as a business into your API. 
-
-GoCardless offers two distinct APIs:
-
-* [GoCardless V1](https://www.apichangelog.com/api/gocardless), which is all about **simplicity**, is focused on the SMB market and has had [some change taking place](https://www.apichangelog.com/changes/4441b2f0-8a78-4914-95e2-3bc45cc90b08), however is still 100% backward compatible. 
-* [GoCardless Pro](https://www.apichangelog.com/api/gocardlesspro), which has a richer **feature set**, is targeted at the larger clients who require additional functionality from the service.
-
-Currently to have these two APIs operating they need to maintain a compatibility layer. Because managing both APIs is not always easy they’re planning on converging them over the coming six months. The first one operates with [JSON Schema](http://json-schema.org/ "JSON Schema") and has larger abstractions than the Pro service. 
-
-Their major key learnings are:
-
-* There’s a need to differentiate between the **scale of change** on different customers.
-* Changing from a flat to a nested representation **does not change function but does change usage**.
-* You should **do pagination as early as possible** because it’s a pain to implement it at a later stage.
-* **Set fixed dates for incremental changes**. Outline the dates early in header information to ensure.
-* **Have a clear communication channel with your developers**, ideally knowing each developer down to the contact details, version of API used and method last called.
-
-GoCardless is also a heavy API consumer, as it has to interact with various external services. To better manage their consumers they internally use JSON Schema to provide very strict contracts between services. They’ve also created a mock server so that their API consumers can be better tested.
