@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Twilio APIs change while having developers on the founding end-points
+status: draft
 ---
 
 [Twilio](https://www.apichangelog.com/api/twilio/ "Twilio On API Changelog") is one of the leaders of the platform movement, being the a cloud communications company, founded in 2007 looking to disrupt the telecoms industry. They have been one of the most successful API first companies and are revered in the API world as trails blazers of how they put engineers first and at the centre of their business. By being the best to enable engineers to build product on top of their platform they have become the go to company in the cloud communications space globally.
@@ -39,7 +40,7 @@ When scoping change, the key metric Twilio look at is the number of customers th
 
 As discussed before, Twilio aims to have world class customer service organization for developers. Not many companies can say that and actually achieve it, their approach to managing their API does reflect that. 
 
-If you want to chat to Rob and his team directly the quickest path is help@twilio.com, twitter.com/Twilio and don’t forget to follow them on [API Changelog](https://www.apichangelog.com/api/twilio/ "Twilio On API Changelog"). 
+If you want to chat to Rob and his team directly the quickest path is help@twilio.com, twitter.com/Twilio and don’t forget to follow them on [API Changelog](https://www.apichangelog.com/api/twilio "Twilio On API Changelog"). 
 
 
 
