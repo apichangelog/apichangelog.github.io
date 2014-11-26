@@ -4,7 +4,7 @@ title: How Twilio APIs change while having developers on the founding end-points
 status: live
 ---
 
-[Twilio](https://www.apichangelog.com/api/twilio/ "Twilio On API Changelog") is one of the leaders of the platform movement, being the a cloud communications company, founded in 2007 looking to disrupt the telecoms industry. They have been one of the most successful API first companies and are revered in the API world as trails blazers of how they put engineers first and at the centre of their business. By being the best to enable engineers to build product on top of their platform they have become the go to company in the cloud communications space globally.
+[Twilio](www.twilio.com "Twilio") is one of the leaders of the platform movement, being the a cloud communications company, founded in 2007 looking to disrupt the telecoms industry. They have been one of the most successful API first companies and are revered in the API world as trails blazers of how they put engineers first and at the centre of their business. By being the best to enable engineers to build product on top of their platform they have become the go to company in the cloud communications space globally.
 
 ![](/img/TwilioAPIChangelog.png)
 
