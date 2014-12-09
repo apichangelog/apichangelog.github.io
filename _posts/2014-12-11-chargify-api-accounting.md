@@ -18,7 +18,9 @@ Drew Blas - Director of Operations Chargify.com
 
 
 **API Changelog**: How do you enable your API consumers to participate in the change process?
-_Chargify_: Support requests are the primary way that they ask for help.  That is our funnel for most changes.  Our support system allows us to put our engineers in direct contact with the customers to help avoid having a middleman whenever possible.
+
+**Chargify**: Support requests are the primary way that they ask for help.  That is our funnel for most changes.  Our support system allows us to put our engineers in direct contact with the customers to help avoid having a middleman whenever possible.
+
 
 **API Changelog**: Are there any major change coming up for the remainder of 2014 or early next year you want to make your developers aware of?
 **Chargify**: No major changes.
@@ -46,4 +48,3 @@ So all changes to both the API and general information/guidance is trackable. Th
 	 
 
 If you want to chat to Drew and his team directly the quickest path is [twitter.com/Twilio](http://www.twitter.com/chargify "Chargify on Twitter") and don’t forget to follow them on [API Changelog](https://www.apichangelog.com/api/chargify "chargify On API Changelog"). 
-
