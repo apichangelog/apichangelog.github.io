@@ -2,7 +2,7 @@
 layout: post
 title: Chargify's incremental change to their accounting API.
 status: draft
-thumbnail: /img/.png
+thumbnail: /img/Managing-API-Change-Chargify.png
 ---
 
 [Chargify](https://www.chargify.com "Chargify") is one of the leaders of the recurring billing world. Before the subscription economy was really a thing, Chargify was working away in Boston, USA. Amoungst their investors is celebrity investor and Dallas Mavericks owner Mark Cuban. They focus on helping subscription business to focus on core business while Chargify keeps all that activity, and your cash flow, running smoothly. 
@@ -11,7 +11,7 @@ thumbnail: /img/.png
 
 We were lucky enough to have a quick catch up with Drew Blas - Director of Operations Chargify.com, to dsicuss how they manage APIs in the context of providing mililions of dollars of billing for subscription comapnies on a monthly basis. 
 
-![](/img/X.png)
+![](/img/Managing-API-Change-Chargify.png)
 
 
 **API Changelog**: What is your current API change cycle and what are the core drivers for change of you API?
