@@ -5,9 +5,11 @@ status: draft
 thumbnail: /img/.png
 ---
 
-[Chargify](https://www.chargify.com "Chargify") is one of the leaders of the platform movement, being the a cloud communications company, founded in 2007 looking to disrupt the telecoms industry. They have been one of the most successful API first companies and are revered in the API world as trails blazers of how they put engineers first and at the centre of their business. By being the best to enable engineers to build product on top of their platform they have become the go to company in the cloud communications space globally.
+[Chargify](https://www.chargify.com "Chargify") is one of the leaders of the recurring billing world. Before the subscription economy was really a thing, Chargify was working away in Boston, USA. Amoungst their investors is celebrity investor and Dallas Mavericks owner Mark Cuban. They focus on helping subscription business to focus on core business while Chargify keeps all that activity, and your cash flow, running smoothly. 
 
-Drew Blas - Director of Operations Chargify.com
+> We help thousands of businesses manage millions of recurring customers - from startups to Fortune 100. 
+
+We were lucky enough to have a quick catch up with Drew Blas - Director of Operations Chargify.com, to dsicuss how they manage APIs in the context of providing mililions of dollars of billing for subscription comapnies on a monthly basis. 
 
 ![](/img/X.png)
 
