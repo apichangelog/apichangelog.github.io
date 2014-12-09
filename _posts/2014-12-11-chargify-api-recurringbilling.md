@@ -49,4 +49,4 @@ So all changes to both the API and general information/guidance is trackable. Th
 **Chargify**: E-mail “candy@chargify.com” and we’ll send out a t-shirt to anyone who asks.
 	 
 
-If you want to chat to Drew and his team directly the quickest path is [twitter.com/Twilio](http://www.twitter.com/chargify "Chargify on Twitter") and don’t forget to follow them on [API Changelog](https://www.apichangelog.com/api/chargify "chargify On API Changelog"). 
+If you want to chat to Drew and his team directly the quickest path is [twitter.com/chargify](http://www.twitter.com/chargify "Chargify on Twitter") and don’t forget to follow them on [API Changelog](https://www.apichangelog.com/api/chargify "chargify On API Changelog"). 
