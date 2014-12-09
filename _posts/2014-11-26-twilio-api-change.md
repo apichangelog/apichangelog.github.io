@@ -13,7 +13,7 @@ We are lucky enough to chat with [Rob Spectre](https://twitter.com/dn0t "Rob Spe
 
 So we asked Rob what are some of the bigger plans for late 2014 and early 2015 at Twilio?
 
-> "We are preparing for an API upgrade and a big price drop. These price drops will be across international and domestic pricing. This has been possible due to the economies of scale achieved recently by Twilio. As our developer network has grown significantly the unit price economics improved, so we are excited to pass this onto our custommers."
+> "We are preparing for an API upgrade and a big price drop. These price drops will be across international and domestic pricing. This has been possible due to the economies of scale achieved recently by Twilio. As our developer network has grown significantly the unit price economics improved, so we are excited to pass this onto our customers."
 
 We then began to dive deeper into how change has occurred at Twilio. The example Rob discussed was enabling MMS for USA long codes. There was a need to add a new parameter to the existing end-point.
 
@@ -32,7 +32,7 @@ Rob outlined when a company like Twilio exposes APIs / SDKs to the public in pro
 
 So long term service is ingrained in the Twilio API strategy.
 
-So back to adding MMS functionality to the Twilio API. So in this a case they decided to add a new end-point to their API which would be across message types i.e. SMS and MMS. As this would now have an enganced functionality across both, they decided to deprecate the existing SMS end-point. The SMS deprecation path was defined, which was to be one through to two years, depending on response from customers.
+So back to adding MMS functionality to the Twilio API. So in this a case they decided to add a new end-point to their API which would be across message types i.e. SMS and MMS. As this would now have an enhanced functionality across both, they decided to deprecate the existing SMS end-point. The SMS deprecation path was defined, which was to be one through to two years, depending on response from customers.
 
 Keeping this type of consistency is the ongoing theme from our chat. From best practice point of view (other than Twilio), Rob saw Stripe as a leader in the field. 
 
