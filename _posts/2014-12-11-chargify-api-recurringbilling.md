@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chargify's incremental change to their accounting API.
-status: draft
+status: live
 thumbnail: /img/Managing-API-Change-Chargify.png
 ---
 
