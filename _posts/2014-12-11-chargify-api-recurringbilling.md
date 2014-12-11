@@ -16,17 +16,17 @@ We were lucky enough to have a quick catch up with Drew Blas - Director of Opera
 
 **API Changelog**: What is your current API change cycle and what are the core drivers for change of you API?
 
-**Chargify**: We regularly add new features to the API with every release (usually daily). We also make changes or improvements based on customer feedback. But our #1 priority is always backwards-compatibility.  We have a very firm “no breaking changes” rule.
+**Chargify**: We regularly add new features to the API with every release (usually daily). We also make changes or improvements based on customer feedback. But our #1 priority is always backwards-compatability.  We have a very firm “no breaking changes” rule.
 
 
 **API Changelog**: How do you enable your API consumers to participate in the change process?
 
-**Chargify**: Support requests are the primary way that they ask for help.  That is our funnel for most changes, we agregate this together and analyse. Plus our support system allows us to put our engineers in direct contact with the customers to help avoid having a middleman whenever possible.
+**Chargify**: Support requests are the primary way that they ask for help.  That is our funnel for most changes, we aggregate this together and analyse. Plus our support system allows us to put our engineers in direct contact with the customers to help avoid having a middleman whenever possible.
 
 
 **API Changelog**: Are there any major change coming up for the remainder of 2014 or early next year you want to make your developers aware of?
 
-**Chargify**: We have not major changes planned at this point in time. As outlined, we are very much an incremental change development house, focusing on small and ongoing change, rather than major releases. Being in th erecurring billing space we try to avoid major change in genenral while maintaining backward compatibility.
+**Chargify**: We have not major changes planned at this point in time. As outlined, we are very much an incremental change development house, focusing on small and ongoing change, rather than major releases. Being in the recurring billing space we try to avoid major change in genenral while maintaining backward compatability.
 
 
 **API Changelog**: How do you class different changes, i.e. how do you know which ones will create a bigger amount of effort for your API consumers?
