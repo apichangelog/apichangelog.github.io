@@ -9,7 +9,7 @@ thumbnail: /img/Managing-API-Change-Chargify.png
 
 > We help thousands of businesses manage millions of recurring customers - from startups to Fortune 100. 
 
-We were lucky enough to have a quick catch up with Drew Blas - Director of Operations Chargify.com, to dsicuss how they manage APIs in the context of providing mililions of dollars of billing for subscription comapnies on a monthly basis. 
+We were lucky enough to have a quick catch up with Drew Blas - Director of Operations Chargify.com, to discuss how they manage APIs in the context of providing millions of dollars of billing for subscription companies on a monthly basis. 
 
 ![](/img/Managing-API-Change-Chargify.png)
 
@@ -21,7 +21,7 @@ We were lucky enough to have a quick catch up with Drew Blas - Director of Opera
 
 **API Changelog**: How do you enable your API consumers to participate in the change process?
 
-**Chargify**: Support requests are the primary way that they ask for help.  That is our funnel for most changes, we agregae this together and analysise. Plus our support system allows us to put our engineers in direct contact with the customers to help avoid having a middleman whenever possible.
+**Chargify**: Support requests are the primary way that they ask for help.  That is our funnel for most changes, we agregate this together and analyse. Plus our support system allows us to put our engineers in direct contact with the customers to help avoid having a middleman whenever possible.
 
 
 **API Changelog**: Are there any major change coming up for the remainder of 2014 or early next year you want to make your developers aware of?
