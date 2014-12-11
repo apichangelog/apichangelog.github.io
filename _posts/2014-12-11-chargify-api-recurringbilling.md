@@ -21,16 +21,17 @@ We were lucky enough to have a quick catch up with Drew Blas - Director of Opera
 
 **API Changelog**: How do you enable your API consumers to participate in the change process?
 
-**Chargify**: Support requests are the primary way that they ask for help.  That is our funnel for most changes.  Our support system allows us to put our engineers in direct contact with the customers to help avoid having a middleman whenever possible.
+**Chargify**: Support requests are the primary way that they ask for help.  That is our funnel for most changes, we agregae this together and analysise. Plus our support system allows us to put our engineers in direct contact with the customers to help avoid having a middleman whenever possible.
 
 
 **API Changelog**: Are there any major change coming up for the remainder of 2014 or early next year you want to make your developers aware of?
-**Chargify**: No major changes.
+
+**Chargify**: We have not major changes planned at this point in time. As outlined, we are very much an incremental change development house, focusing on small and ongoing change, rather than major releases. Being in th erecurring billing space we try to avoid major change in genenral while maintaining backward compatibility.
 
 
 **API Changelog**: How do you class different changes, i.e. how do you know which ones will create a bigger amount of effort for your API consumers?
 
-**Chargify**: Because we don’t make breaking changes, we usually look for ways to add new features that don’t change our existing paradigms or resource structures.
+**Chargify**: Because we don’t make breaking changes, we usually look for ways to add new features that don’t change our existing paradigms or resource structures. We focus on non-breaking enhancements and to date have not needed to make any major shifts.
 
 
 **API Changelog**: Do you vary the timing of change release based on scale of the change?
