@@ -5,11 +5,9 @@ status: draft
 thumbnail: /img/Email-API-ContextIO.png
 ---
 
-[Context.io](https://www.context.io "Context.io") is one of the leaders of the recurring billing world. Before the subscription economy was really a thing, Chargify was working away in Boston, USA. Amoungst their investors is celebrity investor and Dallas Mavericks owner Mark Cuban. They focus on helping subscription business to focus on core business while Chargify keeps all that activity, and your cash flow, running smoothly. 
+[Context.io](https://www.context.io "Context.io") is one of the leaders enabling innovation in the email space. Despite the fact we all live in email each hour, there has been little innovation on how to approach email until Context.io came along. After launching out of Montreal, Canada, Context.io was quickly acquired in Email intelligence company Return Path, in October 2012, aiming to make it faster and easier for developers to integrate email data into their applications. Counting amougnst its clients Unified Inbox, Contactually, MailTime, FollowUp.cc, getairhelp.com plus many more, Context.io enables companies to explore how to better innovate around email or integrate into other services. 
 
-> We help thousands of businesses manage millions of recurring customers - from startups to Fortune 100. 
-
-We were lucky enough to have a quick catch up with Drew Blas - Director of Operations Context.io to discuss how they manage APIs in the context of providing millions of dollars of billing for subscription companies on a monthly basis. 
+We had a chat with Dan Corbin, API Product Manager @ Context.io to discuss how they manage APIs helping one of the oldest online technologies evolve in unimagined ways. 
 
 ![](/img/Email-API-ContextIO.png)
 
