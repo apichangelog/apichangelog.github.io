@@ -30,33 +30,40 @@ We were lucky enough to have a quick catch up with Drew Blas - Director of Opera
 
 The core drivers for change at Context.IO are our customers. We won’t make an update before validating it with our clients so we welcome feedback from anyone using the API. 
 
+
 **API Changelog**: How do you enable your API consumers to participate in the change process?
 
 **Context.io**: We always enjoy chatting with developers hacking on Context.IO and learning what kinds of changes they’d like. We do constant client discovery to determine which features will create the most value for developers building on top of our API. That’s how we source nearly every change we make. We love jumping on a call or answering an email thread to better understand what our developers want.
+
 
 **API Changelog**: Are there any major change coming up for the remainder of 2014 or early next year you want to make your developers aware of?
 
 **Context.io**: We’re in the middle of a private beta for native Exchange support. We’ll be entering a public beta mid-Q4 2014 for Exchange on our Lite API. We hope many people will integrate with Exchange and give us ample feedback so we can provide the best possible Exchange support.
 
-**Context.io**: We should note that this change will be seamless for current developers. Nothing will break for current API integrations!
+We should note that this change will be seamless for current developers. Nothing will break for current API integrations!
+
 
 **API Changelog**: How do you class different changes, i.e. how do you know which ones will create a bigger amount of effort for your API consumers?
 
 **Context.io**: For changes that either slightly alter the performance of the API, or changes that we want developers to take advantage of, we write up a blog post or send an email out. We want to make certain that developers are aware of all the cool new stuff they can do with the API. It’s fantastic that Apichangelog.com will help us get the news out!
 
+
 **API Changelog**: Do you vary the timing of change release based on scale of the change?
 
 **Context.io**: We delay a change if it’s something that would break current integrations. We time that release out with a new version number, so that current developers are not stuck with a broken integration. The only other reason for us to delay a change is if it makes sense to pair it with another change. Then we’ll release both related updates at once, to make sure we don’t flood our developers in a sea of noise.
 
+
 **API Changelog**: How can developers get some swag for being great user of your API?
 
 **Context.io**: Just email me at dan@context.io!
+
 
 **API Changelog**: What are examples of incredible applications developers have built on your API?
 
 **Context.io**: There are so many I’d love to mention but I’ll limit it to just a couple examples. AirHelp determines if you’re entitled for up to $800 because of delayed or cancelled flights. It’s a fantastic service and a very intelligent use of the Context.IO API. 
 
 Another client that we’re proud to partner with is Unified Inbox. They centralize external conversations, social engagement, and internal team collaboration into a single platform across desktop and mobile devices. In short, the Future of Communication! 
+
 
 **API Changelog**: What is the best way to raise questions about your API changes?
 
