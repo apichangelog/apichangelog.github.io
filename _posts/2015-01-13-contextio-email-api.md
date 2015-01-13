@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ContextIO liberating email via API.
+title: Context.io liberating email via API.
 status: live
 thumbnail: /img/Email-API-ContextIO.png
 ---
