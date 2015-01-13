@@ -5,7 +5,9 @@ status: draft
 thumbnail: /img/Email-API-ContextIO.png
 ---
 
-[Context.io](https://www.context.io "Context.io") is one of the leaders enabling innovation in the email space. Despite the fact we all live in email each hour, there has been little innovation on how to approach email until Context.io came along. After launching out of Montreal, Canada, Context.io was quickly acquired in Email intelligence company Return Path, in October 2012, aiming to make it faster and easier for developers to integrate email data into their applications. Counting amougnst its clients Unified Inbox, Contactually, MailTime, FollowUp.cc, getairhelp.com plus many more, Context.io enables companies to explore how to better innovate around email or integrate into other services. 
+[Context.io](https://www.context.io "Context.io") is one of the leaders enabling innovation in the email space. Despite the fact we all live in email each hour, there has been little innovation on how to approach email until Context.io came along. After launching out of Montreal, Canada, Context.io was quickly acquired in Email intelligence company Return Path, in October 2012, aiming to make it faster and easier for developers to integrate email data into their applications. Counting amoung its clients Unified Inbox, Contactually, MailTime, FollowUp.cc, getairhelp.com plus many more, Context.io enables companies to explore how to better innovate around email or integrate into other services. 
+
+> Context.IO takes the pain out of syncing email data with your app so you can focus on what makes your product great.
 
 We had a chat with Dan Corbin, API Product Manager @ Context.io to discuss how they manage APIs helping one of the oldest online technologies evolve in unimagined ways. 
 
