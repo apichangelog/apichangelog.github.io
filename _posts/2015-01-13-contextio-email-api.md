@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chargify's incremental change to their accounting API.
+title: ContextIO liberating email via API.
 status: live
 thumbnail: /img/Email-API-ContextIO.png
 ---
